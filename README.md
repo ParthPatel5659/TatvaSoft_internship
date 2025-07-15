@@ -1,4 +1,4 @@
-# 🚀 Full-Stack Development Internship Progress
+ # 🚀 Full-Stack Development Internship Progress
 
 Welcome to my journey as a Full-Stack Developer! Over the course of this internship, I worked with **PostgreSQL**, **Angular**, **.NET Core**, and **AWS** to build and deploy a complete web application. Below is a day-wise breakdown of my progress and key technologies learned.
 
@@ -73,3 +73,78 @@ Welcome to my journey as a Full-Stack Developer! Over the course of this interns
 
 ```bash
 ng serve
+```
+
+Open your browser at [http://localhost:4200](http://localhost:4200). The app will automatically reload if you change any of the source files.
+
+---
+
+### 🛠️ Code Scaffolding
+
+To generate a new component:
+
+```bash
+ng generate component component-name
+```
+
+For other schematics like directives, services, or modules, run:
+
+```bash
+ng generate --help
+```
+
+---
+
+### 🏗️ Build the Application
+
+To build the project for production:
+
+```bash
+ng build
+```
+
+The compiled files will be located in the `dist/` directory. The production build includes optimizations for performance and speed.
+
+---
+
+### ✅ Running Unit Tests
+
+To run unit tests using Karma:
+
+```bash
+ng test
+```
+
+This will launch the test runner in watch mode.
+
+---
+
+### 🧪 Running End-to-End (E2E) Tests
+
+To execute end-to-end tests:
+
+```bash
+ng e2e
+```
+
+> Note: Angular CLI does not come with an end-to-end testing framework by default. You can integrate Cypress, Protractor, or Playwright as per project needs.
+
+---
+
+## 📚 Additional Resources
+
+- [Angular Documentation](https://angular.io/docs)
+- [Angular CLI Command Reference](https://angular.io/cli)
+- [.NET Core Documentation](https://learn.microsoft.com/en-us/aspnet/core)
+- [PostgreSQL Documentation](https://www.postgresql.org/docs/)
+- [AWS Free Tier](https://aws.amazon.com/free/)
+- [Deploy Angular to S3](https://docs.aws.amazon.com/AmazonS3/latest/userguide/WebsiteHosting.html)
+- [Deploy .NET Core to EC2](https://learn.microsoft.com/en-us/dotnet/core/cloud/aws/deployment)
+
+---
+
+## 🙌 Thanks for Reading!
+
+I appreciate your time exploring my internship progress. If you’d like to see the full codebase, collaborate, or just connect, feel free to reach out!
+
+> 📬 **Let's Connect**: [LinkedIn](https://linkedin.com/in/your-profile) | [Email](mailto:your.email@example.com)
