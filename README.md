@@ -138,4 +138,4 @@ ng e2e
 
 If you’re interested in the code or want to connect, feel free to reach out!
 
-📬 **Connect with Me**: [LinkedIn](https://linkedin.com/in/parthpatel) | [Email](mailto:pspatel5659@gmail.com)
+📬 **Connect with Me**: [LinkedIn](https://www.linkedin.com/in/parth-patel-b070a8304/) | [Email](mailto:pspatel5659@gmail.com)
